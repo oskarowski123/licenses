@@ -1,0 +1,12 @@
+{
+  "licenses": [
+    {
+      "code": "1234-ABCD",
+      "user": "unassigned"
+    },
+    {
+      "code": "5678-EFGH",
+      "user": "unassigned"
+    }
+  ]
+}
